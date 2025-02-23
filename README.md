@@ -12,5 +12,6 @@ Waterproof Window: A cutout accommodates a standard microscope slide as a protec
 - Window: Standard microscope slide, sealed with silicone
 - Roof is slanted to direct rain away from microUSB port
 - Roof also pops off to reveal microSD card
-<img src="https://github.com/alfiethology/print-parts/blob/main/images/camera-with-sensor.jpg" alt="BirdCam with Sensor" width="300">
-
+<p align="center">
+  <img src="https://github.com/alfiethology/print-parts/blob/main/images/camera-with-sensor.jpg" alt="BirdCam with Sensor" width="300">
+</p>
